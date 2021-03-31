@@ -12,3 +12,9 @@ myöntämäni määrän resursseja.
 Ohessa kuva Mintistä toiminnassa:
 
 ![Linux Mint Kuvankaappaus](https://i.gyazo.com/418a896addf89f28f79603adac839711.png)
+
+B.
+
+Ohessa kuva Scientific Linuxista toiminnassa:
+
+![SL toiminnassa](https://i.gyazo.com/1ff53015ec3c30cf898fbe351dcebcb5.png)
