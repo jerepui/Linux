@@ -1,4 +1,4 @@
-TEHTÄVÄ 2.!
+TEHTÄVÄ 2
 
 A.
 
@@ -11,4 +11,4 @@ myöntämäni määrän resursseja.
 
 Ohessa kuva Mintistä toiminnassa:
 
-![Linux Mint Kuvankaappaus](tehtava1.2/MintToiminnassa.png)
+![Linux Mint Kuvankaappaus](https://i.gyazo.com/418a896addf89f28f79603adac839711.png)
