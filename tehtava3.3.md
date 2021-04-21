@@ -1,3 +1,5 @@
+A
+
 1 
 
 a) export PS1="\u\A"
